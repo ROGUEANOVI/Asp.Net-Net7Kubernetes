@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NP0+RnyrhkQpq1429hdVcHuh0Oy55TI+zmbS974UBH8=",
+  "Source": "Net7Kubernetes",
+  "BasePath": "_content/Net7Kubernetes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
